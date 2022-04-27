@@ -1,0 +1,16 @@
+/*
+theme name: wordpress curso
+version: 1.0
+Description: sitio para introduccion al curso de wordpress
+Author: Sebastian Rosero
+License: GNU General Public Licence v2 or later
+Licence URI: http://www.gnu.org/licenses/gpl-2.0.html
+*/
+
+body {
+    background-color: rgb(208, 240, 240);
+}
+
+img {
+    width: 50%;
+}
